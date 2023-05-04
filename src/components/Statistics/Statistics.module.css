@@ -1,0 +1,23 @@
+.statistics {
+    width: 24%;
+    margin-top: 6%;
+    margin-left: 8%;
+    border: 1px solid rgb(107, 107, 107);
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 0;
+}
+
+.percentage {
+    display: flex;
+}
